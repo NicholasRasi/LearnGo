@@ -1,27 +1,5 @@
 # LearnGo
 
-## Introduction
-> Go is an open source programming language
-that makes it easy to build simple, reliable, and efficient software
-
-- Created in 2007 by Ken Thompson (Co-creator of Unix), Rob Pike, Robert Griesemer
-
-### Features
-- simple, strongly typed, procedural language with object-oriented features
-- modern standard library
-- compiles to single native binary
-- garbage collected
-- memory efficient
-- built-in concurrency
-- fast to compile
-- built-in array and string types
-
-### Popular Project Written in Go
-- Prometheus
-- Docker
-- Kubernetes
-- ...
-
 ## Topics
 - [Introduction](./0-introduction/)
 - [Variables](./1-variables/)
